@@ -26,7 +26,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1fff,100:9b59b6&height=180&text=TheBeast017&fontSize=60&animation=twinkle" alt="banner" />
 </p>
 
-<h1 align="center">👋 Hey there! I'm <strong>TheBeast017</strong></h1>
+<h1 align="center">👋 Hey there! I'm <strong>Kartikay</strong></h1>
 <p align="center">
   <strong>Java • AI • Problem Solver • Automation Enthusiast</strong>
 </p>
