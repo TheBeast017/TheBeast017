@@ -1,3 +1,26 @@
+<!-- Neon Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=200&text=TheBeast017&fontSize=60&fontColor=00fff7&animation=fadeIn" />
+</p>
+
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+</p>
+
+<h1 align="center" style="color:#00fff7;">⚡ Welcome to My Cyber Space ⚡</h1>
+
+<p align="center">
+  <strong>Java • AI • Automation • Problem Solving</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheBeast017&color=00fff7&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/TheBeast017?style=flat-square&color=00fff7" />
+</p>
+
+---
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1fff,100:9b59b6&height=180&text=TheBeast017&fontSize=60&animation=twinkle" alt="banner" />
@@ -100,28 +123,7 @@ I create projects that solve real problems and help developers learn and grow wi
 > “Code with purpose, build with passion.” 💡
 
 
-<!-- Neon Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=200&text=TheBeast017&fontSize=60&fontColor=00fff7&animation=fadeIn" />
-</p>
 
-<!-- Hero GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
-</p>
-
-<h1 align="center" style="color:#00fff7;">⚡ Welcome to My Cyber Space ⚡</h1>
-
-<p align="center">
-  <strong>Java • AI • Automation • Problem Solving</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheBeast017&color=00fff7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/TheBeast017?style=flat-square&color=00fff7" />
-</p>
-
----
 
 ## 🧠 About Me
 
