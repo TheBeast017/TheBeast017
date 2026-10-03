@@ -44,6 +44,7 @@
 I’m a developer passionate about building **AI-driven applications, robust Java systems, and intelligent automation tools.**  
 I create projects that solve real problems and help developers learn and grow with code.
 
+Access my Portfolio : https://kartikaytewari.netlify.app/
 ---
 
 ## 🛠️ Tech Stack
